@@ -1,5 +1,7 @@
 /ExperientialLanguages/bin/
 /ExperientialLanguages/obj/
+/ExperientialLanguagesTests/bin/
+/ExperientialLanguagesTests/obj/
 .idea/
 .git/
 *.user
