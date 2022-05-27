@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperientialLanguages", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperientialLanguagesTests", "ExperientialLanguagesTests\ExperientialLanguagesTests.csproj", "{5969E8D0-17AA-4C60-96CE-025E53342B7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageConsole", "LanguageConsole\LanguageConsole.csproj", "{A75B916E-43AA-4105-BD5B-5D3D17040459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5969E8D0-17AA-4C60-96CE-025E53342B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5969E8D0-17AA-4C60-96CE-025E53342B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5969E8D0-17AA-4C60-96CE-025E53342B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75B916E-43AA-4105-BD5B-5D3D17040459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75B916E-43AA-4105-BD5B-5D3D17040459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75B916E-43AA-4105-BD5B-5D3D17040459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75B916E-43AA-4105-BD5B-5D3D17040459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
