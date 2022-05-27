@@ -1,0 +1,7 @@
+/ExperientialLanguages/bin/
+/ExperientialLanguages/obj/
+.idea/
+.git/
+*.user
+TestResults/
+*.editorconfig
