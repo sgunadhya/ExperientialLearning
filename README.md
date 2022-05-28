@@ -1,2 +1,2 @@
 # ExperientialLearning
-Port of Experiential Learning to DotNet Core
+Port of the "An Experiential Introduction to Principles of Programming Languages : For Java Programmers" to .NET 6
